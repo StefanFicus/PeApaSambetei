@@ -1,4 +1,0 @@
-repository "Pe Apa Sambetei/Pe Apa Sambetei@7972430355961@cloud"
-  path "/"
-    br "/main"
-    co "/main"
