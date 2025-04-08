@@ -9,32 +9,35 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/story01.unity
-    guid: 6e74fd2fafa8e4c469b0bd1a4b9b78f7
-  - enabled: 1
-    path: Assets/Scenes/story00.unity
-    guid: e515eb2a86dc86e40b7a91303ae3eb46
-  - enabled: 1
-    path: Assets/Scenes/story02.unity
-    guid: c29e421ed67e3ed448f42a063d34e0cf
-  - enabled: 1
-    path: Assets/Scenes/story03.unity
-    guid: 530d70c8273cb624e8bb7dd34b964016
-  - enabled: 1
-    path: Assets/Scenes/story04.unity
-    guid: 1f7bb8476a240524683ce05051c4c21c
-  - enabled: 1
-    path: Assets/Scenes/story05.unity
-    guid: 9054daae3e2894340a687169dc624818
-  - enabled: 1
-    path: Assets/Scenes/story06.unity
-    guid: 7f6ec826efadf664cb9ab54ab2555fac
-  - enabled: 1
-    path: Assets/Scenes/story07.unity
-    guid: 51a5d36bf45fa4f499853f2360c001f9
-  - enabled: 1
     path: Assets/Scenes/startscreen.unity
     guid: 4a6ff15ac3779c94191664d399d89a3b
+  - enabled: 1
+    path: Assets/Scenes/story1.unity
+    guid: e515eb2a86dc86e40b7a91303ae3eb46
+  - enabled: 1
+    path: Assets/Scenes/story2.unity
+    guid: 6e74fd2fafa8e4c469b0bd1a4b9b78f7
+  - enabled: 1
+    path: Assets/Scenes/story3.unity
+    guid: c29e421ed67e3ed448f42a063d34e0cf
+  - enabled: 1
+    path: Assets/Scenes/story4.unity
+    guid: 530d70c8273cb624e8bb7dd34b964016
+  - enabled: 1
+    path: Assets/Scenes/story5.unity
+    guid: 1f7bb8476a240524683ce05051c4c21c
+  - enabled: 1
+    path: Assets/Scenes/story6.unity
+    guid: 9054daae3e2894340a687169dc624818
+  - enabled: 1
+    path: Assets/Scenes/story7.unity
+    guid: 7f6ec826efadf664cb9ab54ab2555fac
+  - enabled: 1
+    path: Assets/Scenes/story8.unity
+    guid: 51a5d36bf45fa4f499853f2360c001f9
   m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 4bdd1dfd2e452495f951a89a6cee0e93, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 35ca58b69a8264c04838f8414850d3f7, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 3a1cdeda84afdc99ebe2620a558fe19d, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
