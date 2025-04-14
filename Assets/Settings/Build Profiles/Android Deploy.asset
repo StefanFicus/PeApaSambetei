@@ -21,7 +21,7 @@ MonoBehaviour:
   m_OverrideGlobalSceneList: 1
   m_Scenes:
   - m_enabled: 1
-    m_path: Assets/Scenes/startscreen.unity
+    m_path: Assets/Scenes/start0.unity
   - m_enabled: 1
     m_path: Assets/Scenes/story1.unity
   - m_enabled: 1
@@ -38,6 +38,8 @@ MonoBehaviour:
     m_path: Assets/Scenes/story7.unity
   - m_enabled: 1
     m_path: Assets/Scenes/story8.unity
+  - m_enabled: 1
+    m_path: Assets/Scenes/story9.unity
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
     m_Settings:
@@ -853,7 +855,7 @@ MonoBehaviour:
     - line: '|   qnxGraphicConfPath: '
     - line: '|   apiCompatibilityLevel: 6'
     - line: '|   captureStartupLogs: {}'
-    - line: '|   activeInputHandler: 2'
+    - line: '|   activeInputHandler: 1'
     - line: '|   windowsGamepadBackendHint: 0'
     - line: '|   cloudProjectId: 4164255a-e6ff-44ee-ab05-014f4d8978fd'
     - line: '|   framebufferDepthMemorylessMode: 0'
