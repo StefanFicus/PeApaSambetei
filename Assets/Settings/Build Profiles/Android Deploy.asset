@@ -40,6 +40,8 @@ MonoBehaviour:
     m_path: Assets/Scenes/story8.unity
   - m_enabled: 1
     m_path: Assets/Scenes/story9.unity
+  - m_enabled: 1
+    m_path: Assets/Scenes/story10.unity
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
     m_Settings:
@@ -893,7 +895,7 @@ MonoBehaviour:
         m_ExportAsGoogleAndroidProject: 0
         m_DebugSymbolLevel: 1
         m_DebugSymbolFormat: 5
-        m_CurrentDeploymentTargetId: 2C191JEHN16334
+        m_CurrentDeploymentTargetId: __builtin__target_default
         m_BuildType: 2
         m_BuildAppBundle: 0
         m_IPAddressToConnect: 

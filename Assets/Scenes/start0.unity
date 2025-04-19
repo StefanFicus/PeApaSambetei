@@ -699,6 +699,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   view: 1
+  skipNext: 0
 --- !u!1 &885509858
 GameObject:
   m_ObjectHideFlags: 0
@@ -1187,7 +1188,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b76f6dafcb8d3a918a54aaf4f28a4a52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textManager: {fileID: 0}
 --- !u!4 &1833604669
 Transform:
   m_ObjectHideFlags: 0
